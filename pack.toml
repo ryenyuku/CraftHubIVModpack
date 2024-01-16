@@ -1,12 +1,12 @@
 name = "CraftHub IV Modpack"
 author = "ryenyuku"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a85e1985009cb275362d4c4de69779b27f96ba94acec97c556f6b7ef6d49059f"
+hash = "980cb644451e9f277aba35977994f29cdf47390a9a8904d7513b50a5f5e919df"
 
 [versions]
 fabric = "0.15.5"

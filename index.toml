@@ -6,7 +6,7 @@ hash = "e3f004333c65068a5a5ac9552168a670c9988c10d486ac81ae8d8f28e72deec9"
 
 [[files]]
 file = "README.md"
-hash = "17cb2c892687b66da3992ae9fc6def1d7af31118f3963ea317e70ba3cf6e4300"
+hash = "412ece71761b4baaaab8c0e67c4a7b6ee851f688c7fd3a8fc06e8f74d597fd40"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -296,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
 
 [[files]]
